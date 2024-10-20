@@ -1,7 +1,6 @@
 # Suffix Tree Implementation
 
-This project implements a suffix tree to efficiently handle suffix-related operations. The following functionalities are provided, with a total score of **50 points + 10 points from Valgrind**.
-
+This project implements a suffix tree to efficiently handle suffix-related operations.
 ## Functionality Overview
 
 ### Building the Suffix Tree
